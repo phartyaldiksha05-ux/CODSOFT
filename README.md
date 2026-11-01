@@ -20,7 +20,7 @@
   
   Evaluated using Precision, Recall & F1-Score
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
   Python | Pandas | Scikit-learn | Imbalanced-learn | Matplotlib
 
@@ -37,7 +37,7 @@
   
   Compared models using R², MAE & RMSE
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
   Python | Pandas | Scikit-learn | Seaborn
 
@@ -54,7 +54,7 @@
   
   Evaluated using MAE & R² Score
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
   Python | Pandas | Scikit-learn
 
@@ -100,6 +100,6 @@
 👩‍💻 Author
 
   Diksha Phartyal
-Data Science Intern – CODSOFT
+  Data Science Intern – CODSOFT
 
 📌 Passionate about Data Science & Machine Learning
